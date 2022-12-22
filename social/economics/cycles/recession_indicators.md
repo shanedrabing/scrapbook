@@ -1,5 +1,10 @@
 # Recession Indicators
 
+- [Recession Indicators](#recession-indicators)
+  - [Signals Before](#signals-before)
+  - [Signals After](#signals-after)
+  - [Erroneous Signals](#erroneous-signals)
+
 ## Signals Before
 
 There are several economic indicators that can signal a coming recession. Some
@@ -63,12 +68,27 @@ are most closely watched by economists and investors include:
 
 ## Erroneous Signals
 
-Economic indicators are not always reliable predictors of a recession and can sometimes give false signals or be influenced by other factors. In the past, economic indicators have given false signals of a coming recession on several occasions. For example:
+Economic indicators are not always reliable predictors of a recession and can
+sometimes give false signals or be influenced by other factors. In the past,
+economic indicators have given false signals of a coming recession on several
+occasions. For example:
 
-    In the late 1990s, the stock market experienced a significant and sustained increase, which many experts believed signaled a strong and growing economy. However, this was followed by the dot-com bubble burst in 2000, which led to a recession.
+- In the late 1990s, the stock market experienced a significant and sustained
+  increase, which many experts believed signaled a strong and growing economy.
+  However, this was followed by the dot-com bubble burst in 2000, which led to
+  a recession.
 
-    In the mid-2000s, the housing market experienced a significant and sustained increase, which many experts believed signaled a strong and growing economy. However, this was followed by the housing market crash in 2007, which led to a recession.
+- In the mid-2000s, the housing market experienced a significant and sustained
+  increase, which many experts believed signaled a strong and growing economy.
+  However, this was followed by the housing market crash in 2007, which led to
+  a recession.
 
-    In the late 2010s, the stock market experienced a significant and sustained increase, which many experts believed signaled a strong and growing economy. However, this was followed by the coronavirus pandemic in 2020, which led to a recession.
+- In the late 2010s, the stock market experienced a significant and sustained
+  increase, which many experts believed signaled a strong and growing economy.
+  However, this was followed by the coronavirus pandemic in 2020, which led to
+  a recession.
 
-It is important to note that while economic indicators can provide useful information about the health of an economy, they are not always reliable predictors of a recession and should be considered in conjunction with other factors.
+It is important to note that while economic indicators can provide useful
+information about the health of an economy, they are not always reliable
+predictors of a recession and should be considered in conjunction with other
+factors.

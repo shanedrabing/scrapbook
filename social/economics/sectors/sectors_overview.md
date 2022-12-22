@@ -1,5 +1,12 @@
 # Economic Sectors
 
+- [Economic Sectors](#economic-sectors)
+  - [Risk v. Reward](#risk-v-reward)
+  - [Cyclicity](#cyclicity)
+  - [Variability](#variability)
+  - [Stability](#stability)
+  - [Total Return](#total-return)
+
 The economy can be divided into various sectors, which are groups of businesses
 that produce and sell related goods or services. Some common sectors of the
 economy include:

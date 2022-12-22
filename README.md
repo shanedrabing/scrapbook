@@ -36,6 +36,13 @@ Nostalgia is a bitch.
     - [Government](#government)
     - [Sociology](#sociology)
     - [Psychology](#psychology)
+  - [Computer Science](#computer-science)
+    - [Algorithms](#algorithms)
+    - [Programming Languages](#programming-languages)
+    - [Computer Systems](#computer-systems)
+    - [Computer Theory](#computer-theory)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Databases](#databases)
 
 ## Math
 
@@ -272,3 +279,42 @@ Nostalgia is a bitch.
   - Child development and aging
 - Personality and individual differences
 - Psychological disorders and treatments
+
+## Computer Science
+
+### Algorithms
+
+- Algorithms
+- Data structures
+
+### Programming Languages
+
+- Syntax
+- Semantics
+- Implementation
+
+### Computer Systems
+
+- Hardware
+- Software
+  - Operating systems
+  - Computer architecture
+  - Computer networks
+
+### Computer Theory
+
+- Automata theory
+- Computability theory
+- Complexity theory
+
+### Artificial Intelligence
+
+- Machine learning
+- Natural language processing
+- Robotics
+
+### Databases
+
+- Data modeling
+- Query languages
+- Data storage and retrieval

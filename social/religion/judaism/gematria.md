@@ -48,44 +48,44 @@ Hebrew language and in the texts of Judaism.
 
 ## Examples
 
-    The word "avodah," which means "service" or "worship," has a numerical value of 104 in gematria. The number 104 is often associated with the idea of devotion and spiritual connection, and it is believed to represent the importance of serving and worshipping God in Jewish tradition.
-    The word "chai," which means "life," has a numerical value of 18 in gematria. The number 18 is often associated with the idea of life and living, and it is considered to be a lucky number in Judaism.
-    The word "chassid," which means "pious" or "devout," has a numerical value of 358 in gematria. The number 358 is often associated with the idea of devotion and spiritual connection, and it is believed to represent the importance of living a devout and spiritual life in Jewish tradition.
-    The word "chesed," which means "kindness" or "mercy," has a numerical value of 72 in gematria. The number 72 is often associated with the idea of compassion and kindness, and it is believed to represent the importance of being merciful and compassionate in Jewish tradition.
-    The word "chosen," which means "selected" or "elected," has a numerical value of 112 in gematria. The number 112 is often associated with the idea of being chosen or selected for a special purpose, and it is believed to represent the idea of being chosen by God in Jewish tradition.
-    The word "emet," which means "truth," has a numerical value of 441 in gematria. The number 441 is often associated with the idea of truth and integrity, and it is believed to represent the importance of honesty and sincerity in Jewish tradition.
-    The word "haredim," which refers to ultra-Orthodox Jews, has a numerical value of 245 in gematria. The number 245 is often associated with the idea of devotion and spiritual connection, and it is believed to represent the importance of living a devout and spiritual life in Jewish tradition.
-    The word "kabbalah," which refers to a system of Jewish mysticism, has a numerical value of 137 in gematria. The number 137 is often associated with the idea of spiritual enlightenment and understanding, and it is believed to represent the importance of the kabbalah in Jewish tradition.
-    The word "kadosh," which means "holy" or "sacred," has a numerical value of 404 in gematria. The number 404 is often associated with the idea of holiness and spiritual purity, and it is believed to represent the concept of the sacred in Jewish tradition.
-    The word "kalah," which means "bride," has a numerical value of 50 in gematria. The number 50 is often associated with the idea of new beginnings and renewal, and it is believed to represent the concept of the bride in Jewish tradition.
-    The word "kavod," which means "honor" or "glory," has a numerical value of 45 in gematria. The number 45 is often associated with the idea of respect and admiration, and it is believed to represent the concept of honor and glory in Jewish tradition.
-    The word "kedusha," which means "holiness" or "sanctity," has a numerical value of 404 in gematria. The number 404 is often associated with the idea of holiness and spiritual purity, and it is believed to represent the importance of living a holy and righteous life in Jewish tradition.
-    The word "lechem," which means "bread," has a numerical value of 38 in gematria. The number 38 is often associated with the idea of sustenance and nourishment, and it is believed to represent the importance of bread as a staple food in Jewish tradition.
-    The word "middot," which means "character traits" or "values," has a numerical value of 473 in gematria. The number 473 is often associated with the idea of personal growth and self-improvement, and it is believed to represent the importance of cultivating positive character traits and values in Jewish tradition.
-    The word "mitzvah," which means "commandment" or "good deed," has a numerical value of 496 in gematria. The number 496 is often associated with the idea of doing good deeds and fulfilling one's obligations, and it is believed to represent the importance of living a moral and virtuous life in Jewish tradition.
-    The word "moshiach," which means "messiah," has a numerical value of 358 in gematria. The number 358 is often associated with the idea of salvation and redemption, and it is believed to represent the coming of the messiah in Jewish tradition.
-    The word "nefesh," which means "soul," has a numerical value of 550 in gematria. The number 550 is often associated with the idea of spirituality and the afterlife, and it is believed to represent the concept of the soul in Jewish tradition.
-    The word "or," which means "light," has a numerical value of 207 in gematria. The number 207 is often associated with the idea of enlightenment and understanding, and it is believed to represent the concept of light in Jewish tradition.
-    The word "pele," which means "miracle," has a numerical value of 135 in gematria. The number 135 is often associated with the idea of divine intervention and wonders, and it is believed to represent the concept of miracles in Jewish tradition.
-    The word "ruach," which means "spirit" or "breath," has a numerical value of 207 in gematria. The number 207 is often associated with the idea of spiritual connection and renewal, and it is believed to represent the importance of living a spiritual and meaningful life in Jewish tradition.
-    The word "Shabbat," which refers to the Jewish day of rest, has a numerical value of 312 in gematria. The number 312 is often associated with the idea of rest and relaxation, and it is believed to represent the importance of the Shabbat in Jewish tradition.
-    The word "shalom," which means "peace," has a numerical value of 364 in gematria. The number 364 is often associated with the idea of completeness or perfection, and it is believed to represent the importance of peace and harmony in Jewish tradition.
-    The word "shalom," which means "peace," has a numerical value of 364 in gematria. The number 364 is often associated with the idea of completeness or perfection, and it is believed to represent the number of days in a year.
-    The word "shem," which means "name," has a numerical value of 340 in gematria. The number 340 is often associated with the idea of identity and self-expression, and it is believed to represent the importance of one's name and reputation in Jewish tradition.
-    The word "shir," which means "song" or "poem," has a numerical value of 510 in gematria. The number 510 is often associated with the idea of creativity and self-expression, and it is believed to represent the importance of music and poetry in Jewish tradition.
-    The word "shofar," which refers to a ram's horn that is blown as a musical instrument during certain Jewish holidays, has a numerical value of 312 in gematria. The number 312 is often associated with the idea of rest and relaxation, and it is believed to represent the importance of the shofar in Jewish tradition.
-    The word "shomer," which means "guard" or "protector," has a numerical value of 611 in gematria. The number 611 is often associated with the idea of divine guidance and wisdom, and it is believed to represent the concept of protection in Jewish tradition.
-    The word "tefillin," which refers to a set of small black leather boxes containing scrolls of parchment inscribed with verses from the Torah, has a numerical value of 744 in gematria. The number 744 is often associated with the idea of devotion and spiritual connection, and it is believed to represent the importance of tefillin in Jewish tradition.
-    The word "tfilah," which means "prayer," has a numerical value of 496 in gematria. The number 496 is often associated with the idea of redemption and restoration, and it is believed to represent the importance of prayer and spiritual connection in Jewish tradition.
-    The word "tikkun," which means "repair" or "restoration," has a numerical value of 496 in gematria. The number 496 is often associated with the idea of redemption and restoration, and it is believed to represent the importance of repairing and rebuilding that which has been damaged or broken in Jewish tradition.
-    The word "tikvah," which means "hope," has a numerical value of 309 in gematria. The number 309 is often associated with the idea of hope and optimism, and it is believed to represent the importance of maintaining a positive outlook and a sense of hope in Jewish tradition.
-    The word "torah," which refers to the Jewish holy scriptures, has a numerical value of 611 in gematria. The number 611 is often associated with the idea of divine guidance and wisdom, and it is believed to represent the importance of the Torah in Jewish tradition.
-    The word "tov," which means "good," has a numerical value of 17 in gematria. The number 17 is often associated with the idea of goodness and righteousness, and it is believed to be a powerful and auspicious number in Judaism.
-    The word "tov," which means "good," has a numerical value of 17 in gematria. The number 17 is often associated with the idea of moral goodness and virtue, and it is believed to represent the concept of goodness in Jewish tradition.
-    The word "tzadik," which means "righteous person," has a numerical value of 208 in gematria. The number 208 is often associated with the idea of righteousness and justice, and it is believed to represent the importance of living a moral and virtuous life in Jewish tradition.
-    The word "tzedakah," which means "charity" or "righteousness," has a numerical value of 414 in gematria. The number 414 is often associated with the idea of righteousness and justice, and it is believed to represent the importance of charitable giving and helping those in need in Jewish tradition.
-    The word "tzedek," which means "justice," has a numerical value of 214 in gematria. The number 214 is often associated with the idea of righteousness and fairness, and it is believed to represent the importance of seeking and upholding justice in Jewish tradition.
-    The word "tzitzit," which refers to the fringes on the four corners of a traditional Jewish garment, has a numerical value of 600 in gematria. The number 600 is often associated with the idea of spiritual connection and devotion, and it is believed to represent the importance of the tzitzit in Jewish tradition.
+Gematria|Yiddish|English|Association|Representation
+-|-|-|-|-
+17|tov|good|moral goodness and virtue|goodness
+18|chai|life|life and living|a lucky number in Judaism.
+38|lechem|bread|sustenance and nourishment|bread as a staple food
+45|kavod|honor, glory|respect and admiration|honor and glory
+50|kalah|bride|new beginnings and renewal|the bride
+72|chesed|kindness, mercy|compassion and kindness|being merciful and compassionate
+104|avodah|service, worship|devotion and spiritual connection|serving and worshipping God
+112|chosen|selected, elected|being chosen or selected for a special purpose|being chosen by God
+135|pele|miracle|divine intervention and wonders|miracles
+137|kabbalah|a system of Jewish mysticism|spiritual enlightenment and understanding|the kabbalah
+207|or|light|enlightenment and understanding|light
+207|ruach|spirit, breath|spiritual connection and renewal|living a spiritual and meaningful life
+208|tzadik|righteous person|righteousness and justice|living a moral and virtuous life
+214|tzedek|justice|righteousness and fairness|seeking and upholding justice
+245|haredim|ultra-Orthodox Jews|devotion and spiritual connection|living a devout and spiritual life
+309|tikvah|hope|hope and optimism|maintaining a positive outlook and a sense of hope
+312|Shabbat|the Jewish day of rest|rest and relaxation|the Shabbat
+312|shofar|a ram's horn that is blown as a musical instrument during certain Jewish holidays|rest and relaxation|the shofar
+340|shem|name|identity and self-expression|one's name and reputation
+358|chassid|pious, devout|devotion and spiritual connection|living a devout and spiritual life
+358|moshiach|messiah|salvation and redemption|the coming of the messiah
+364|shalom|peace|completeness or perfection|peace and harmony
+404|kadosh|holy, sacred|holiness and spiritual purity|the sacred
+404|kedusha|holiness, sanctity|holiness and spiritual purity|living a holy and righteous life
+414|tzedakah|charity, righteousness|righteousness and justice|charitable giving and helping those in need
+441|emet|truth|truth and integrity|honesty and sincerity
+473|middot|character traits, values|personal growth and self-improvement|cultivating positive character traits and values
+496|mitzvah|commandment, good deed|doing good deeds and fulfilling one's obligations|living a moral and virtuous life
+496|tfilah|prayer|redemption and restoration|prayer and spiritual connection
+496|tikkun|repair, restoration|redemption and restoration|repairing and rebuilding that which has been damaged or broken
+510|shir|song, poem|creativity and self-expression|music and poetry
+550|nefesh|soul|spirituality and the afterlife|the soul
+600|tzitzit|the fringes on the four corners of a traditional Jewish garment|spiritual connection and devotion|the tzitzit
+611|shomer|guard, protector|divine guidance and wisdom|protection
+611|torah|the Jewish holy scriptures|divine guidance and wisdom|the Torah
+744|tefillin|a set of small black leather boxes containing scrolls of parchment inscribed with verses from the Torah|devotion and spiritual connection|tefillin
 
 ## Significance
 
@@ -130,7 +130,7 @@ Hebrew language and in the texts of Judaism.
 - 18: Eighteen is often associated with the idea of life or living, and it is
   used to represent the eighteen blessings that are recited during the daily
   Jewish prayers. It is also used to represent the numerical value of the
-  Hebrew word "chai," which means "life."
+  Hebrew word "chai|life."
 - 40: Forty is often associated with the idea of transformation or change, and
   it is used to represent the forty days and forty nights that Moses spent on
   Mount Sinai receiving the Ten Commandments from God. It is also used to

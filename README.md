@@ -2,232 +2,273 @@
 
 Nostalgia is a bitch.
 
+- [Scrapbook](#scrapbook)
+  - [Math](#math)
+    - [Arithmetic](#arithmetic)
+    - [Algebra](#algebra)
+    - [Geometry](#geometry)
+    - [Statistics](#statistics)
+    - [Trigonometry](#trigonometry)
+    - [Calculus](#calculus)
+  - [Science](#science)
+    - [Biology](#biology)
+    - [Chemistry](#chemistry)
+    - [Physics](#physics)
+    - [Earth Science](#earth-science)
+    - [Astronomy](#astronomy)
+  - [English](#english)
+    - [Reading](#reading)
+    - [Writing](#writing)
+    - [Vocabulary](#vocabulary)
+  - [History](#history)
+    - [Ancient](#ancient)
+    - [Medieval](#medieval)
+    - [Modern](#modern)
+    - [World](#world)
+    - [Military](#military)
+    - [Social](#social)
+    - [Economic](#economic)
+    - [Political](#political)
+    - [Cultural](#cultural)
+  - [Social Studies](#social-studies)
+    - [Geography](#geography)
+    - [Economics](#economics)
+    - [Government](#government)
+    - [Sociology](#sociology)
+    - [Psychology](#psychology)
+
 ## Math
 
-- Arithmetic
-  - Basic operations
-    - Addition, subtraction, multiplication, division
-  - Order of operations and problem-solving
-  - Fractions, decimals, and percents
-  - Ratios and proportions
-  - Measurement and conversion
-- Algebra
-  - Variables and algebraic expressions
-  - Solving linear and quadratic equations
-  - Graphing lines and functions
-  - Exponents and radicals
-  - Systems of equations and inequalities
-- Geometry
-  - Points, lines, angles, and shapes
-  - Congruence and symmetry
-  - Transformations and tessellations
-  - Perimeter, area, and volume
-  - Distance and midpoint formulas
-- Statistics
-  - Collecting, organizing, and analyzing data
-  - Measures of central tendency
-    - Mean, median, and mode
-  - Measures of dispersion
-    - Range and standard deviation
-  - Probability and statistical inference
-  - Graphs and charts
-    - Bar graphs, line graphs, and scatterplots
-- Trigonometry
-  - Trigonometric functions
-    - Sine, cosine, and tangent
-  - Angle measures and radian measure
-  - Solving right triangles
-  - Graphs of trigonometric functions
-  - Trigonometric identities and equations
-- Calculus
-  - Limits and continuity
-  - Differentiation and integration
-  - Techniques of integration
-  - Applications of differentiation and integration
-  - Series and sequences
+### Arithmetic
+
+- Basic operations
+  - Addition, subtraction, multiplication, division
+- Order of operations and problem-solving
+- Fractions, decimals, and percents
+- Ratios and proportions
+- Measurement and conversion
+
+### Algebra
+
+- Variables and algebraic expressions
+- Solving linear and quadratic equations
+- Graphing lines and functions
+- Exponents and radicals
+- Systems of equations and inequalities
+
+### Geometry
+
+- Points, lines, angles, and shapes
+- Congruence and symmetry
+- Transformations and tessellations
+- Perimeter, area, and volume
+- Distance and midpoint formulas
+
+### Statistics
+
+- Collecting, organizing, and analyzing data
+- Measures of central tendency
+  - Mean, median, and mode
+- Measures of dispersion
+  - Range and standard deviation
+- Probability and statistical inference
+- Graphs and charts
+  - Bar graphs, line graphs, and scatterplots
+
+### Trigonometry
+
+- Trigonometric functions
+  - Sine, cosine, and tangent
+- Angle measures and radian measure
+- Solving right triangles
+- Graphs of trigonometric functions
+- Trigonometric identities and equations
+
+### Calculus
+
+- Limits and continuity
+- Differentiation and integration
+- Techniques of integration
+- Applications of differentiation and integration
+- Series and sequences
 
 ## Science
 
-- Biology
-  - Cells and their structures
-  - Genetics and heredity
-  - Evolution and natural selection
-  - Plant and animal biology
-  - Human anatomy and physiology
-- Chemistry
-  - Atoms and elements
-  - Compounds and chemical reactions
-  - Periodic table and properties of elements
-  - Acids and bases
-  - Thermochemistry and thermodynamics
-- Physics
-  - Motion and forces
-  - Energy and work
-  - Electricity and magnetism
-  - Waves and optics
-  - Thermal physics and thermodynamics
-- Earth science
-  - Geology and the Earth's structure
-  - Plate tectonics and the rock cycle
-  - Weather and climate
-  - Water cycle and the oceans
-  - Environmental science and sustainability
+### Biology
+
+- Cells and their structures
+- Genetics and heredity
+- Evolution and natural selection
+- Plant and animal biology
+- Human anatomy and physiology
+- Nutrition
+
+### Chemistry
+
+- Atoms and elements
+- Compounds and chemical reactions
+- Periodic table and properties of elements
+- Acids and bases
+- Thermochemistry and thermodynamics
+
+### Physics
+
+- Motion and forces
+- Energy and work
+- Electricity and magnetism
+- Waves and optics
+- Thermal physics and thermodynamics
+
+### Earth Science
+
+- Geology and the Earth's structure
+- Plate tectonics and the rock cycle
+- Weather and climate
+- Water cycle and the oceans
+- Environmental science and sustainability
+
+### Astronomy
+
+- The Solar system and planets
+- Stars and galaxies
 - Astronomy
-  - The Solar system and planets
-  - Stars and galaxies
-  - Astronomy
-  - The Big Bang and the evolution of the universe
-  - Astronomical instruments and observations
+- The Big Bang and the evolution of the universe
+- Astronomical instruments and observations
 
 ## English
 
-- Reading Comprehension
-  - Identifying main ideas and supporting details
-  - Making inferences and drawing conclusions
-  - Analyzing and interpreting characters, plot, and theme
-  - Evaluating the credibility of sources
-  - Summarizing and synthesizing information
-- Writing Skills
-  - Grammar, punctuation, and spelling
-  - Paragraph structure and organization
-  - Essay writing
-    - Introduction, body, and conclusion
-  - Research skills and citing sources
-  - Editing and revising writing
-- Creative Writing
-  - Fiction writing
-    - Plot, characterization, and point of view
-  - Poetry writing
-    - Form, structure, and imagery
-  - Drama writing
-    - Dialogue, character development, and stagecraft
-  - Creative non-fiction writing
-    - Personal essays or memoirs
-  - Editing and revising writing
-- Vocabulary
-  - Word study and root words
-  - Synonyms and antonyms
-  - Word usage and context clues
-  - Prefixes and suffixes
-  - Idioms and figurative language
-- Media Literacy
-  - Accessing and using media effectively
-  - Analyzing and interpreting media messages and representations
-  - Evaluating media sources and their credibility
-  - Understanding the economic, social, and cultural factors that influence
-    media production and distribution
-  - Creating media using appropriate technology and techniques
+### Reading
+
+- Identifying main ideas and supporting details
+- Making inferences and drawing conclusions
+- Analyzing and interpreting characters, plot, and theme
+- Evaluating the credibility of sources
+- Summarizing and synthesizing information
+
+### Writing
+
+- Grammar, punctuation, and spelling
+- Paragraph structure and organization
+- Essay writing
+  - Introduction, body, and conclusion
+- Research skills and citing sources
+- Editing and revising writing
+
+### Vocabulary
+
+- Word study and root words
+- Synonyms and antonyms
+- Word usage and context clues
+- Prefixes and suffixes
+- Idioms and figurative language
 
 ## History
 
-- Ancient civilizations
-  - Geography, culture, and society
-  - Political and social systems
-  - Art, architecture, and literature
-  - Religion and mythology
-  - Wars, conquests, and conflicts
-- European history
-  - Political, social, and economic changes of the Renaissance
-  - Scientific and philosophical advances of the Enlightenment
-  - Industrial Revolution and its impact on society and culture
-  - European colonial empires and their legacy
-  - Revolutions and wars of the 19th and 20th centuries
-- American Revolution and founding of the United States
-  - Causes and events of the American Revolution
-  - Drafting and ratification of the Constitution
-  - Early government and politics of the United States
-  - Expansion and growth of the United States
-  - Impact of the American Revolution on global history
-- Modern world history
-  - Causes and events of World Wars I and II
-  - Cold War and its impact on global relations
-  - Decolonization and independence movements of the 20th century
-  - Major global conflicts and crises of the 20th and 21st centuries
-  - Rise and fall of major world powers
-- Social and political movements
-  - Civil rights movements
-    - Civil rights movement in the United States or the anti-apartheid movement
-      in South Africa
-  - Feminist movements
-    - Suffrage movement or the women's liberation movement
-  - LGBTQ+ rights movements
-    - Gay rights movement or the trans rights movement
-  - Intersectionality of social and political movements
-  - Impact of social and political movements on society and culture
-- Art, music, and pop culture
-  - Art and architecture of different historical periods and cultures
-  - Development and evolution of music genres and styles
-  - Impact of technology on the arts and popular culture
-  - Role of the arts in society and culture
-  - Influence of art, music, and pop culture on social and political movements
-- Science and technology
-  - Scientific discoveries and technological innovations of different
-    historical periods
-  - Impact of science and technology on society and culture
-  - Role of science and technology in shaping the modern world
-  - Relationship between science, technology, and ethics
-  - Influence of science and technology on art, music, and popular culture
-- Medicine and public health
-  - Development of medical knowledge and practices over time
-  - Impact of medical advances on life expectancy and quality of life
-  - Public health campaigns and initiatives
-  - Social and cultural factors that shape medical beliefs and practices
-  - Relationship between medicine and technology
-- Religion and philosophy
-  - Major world religions and their histories
-  - Development and evolution of philosophical ideas
-  - Relationship between religion and society
-  - Role of religion and philosophy in shaping culture and politics
-  - Impact of religion and philosophy on art, music, and popular culture
-- Economics and business
-  - Development of economic systems and theories over time
-  - Trade and commerce
-  - Impact of economics on society and culture
-  - Role of businesses and corporations in shaping the modern world
-  - Relationship between economics, politics, and ethics.
+### Ancient
+
+- Egypt
+- Greece
+- Rome
+
+### Medieval
+
+- Middle Ages
+- Rise and fall of feudal systems
+- Development of the Catholic Church
+- Growth of trade and commerce
+
+### Modern
+
+- Age of Enlightenment
+- Industrial Revolution
+- World Wars
+- Cold War
+
+### World
+
+- Europe
+- Asia
+- Africa
+- Americas
+
+### Military
+
+- Strategies
+- Tactics
+- Weapons
+
+### Social
+
+- Women
+- Minorities
+- Working class
+
+### Economic
+
+- Development of trade and commerce over time
+
+### Political
+
+- Rise and fall of empires
+- Development of democracy
+- Evolution of international relations
+
+### Cultural
+
+- Art
+- Literature
+- Music
 
 ## Social Studies
 
-- Geography
-  - Physical geography
-    - Landforms, climates, and natural resources
-  - Human geography
-    - Population, cultures, and economic activity
-  - Regional geography
-    - Characteristics and differences of various regions
-  - Map skills
-    - Reading and interpreting maps, using GPS, and analyzing spatial data
-  - Geography and global issues
-    - Environmental sustainability, economic development, and political
-      conflict
-- Economics
-  - Microeconomics
-    - Supply and demand, market structures, and consumer behavior
-  - Macroeconomics
-    - GDP, inflation, and monetary policy
-  - International economics
-    - Trade, exchange rates, and globalization
-  - Personal finance
-    - Budgeting, saving, and investing
-  - Economics and its impact on society and culture
-- Government
-  - Forms of government
-    - Democracy, dictatorship, and monarchy
-  - The Constitution and the branches of government
-  - Civil rights and civil liberties
-  - Political parties and elections
-  - Public policy and current events
-- Sociology
-  - Culture and society
-  - Social institutions
-    - Family, education, and religion
-  - Social groups and interactions
-  - Social inequality and social justice
-  - Social change and social problems
-- Psychology
-  - Behavior and mental processes
-  - The brain and the nervous system
-  - Developmental psychology
-    - Child development and aging
-  - Personality and individual differences
-  - Psychological disorders and treatments
+### Geography
+
+- Physical geography
+  - Landforms, climates, and natural resources
+- Human geography
+  - Population, cultures, and economic activity
+- Regional geography
+  - Characteristics and differences of various regions
+- Map skills
+  - Reading and interpreting maps, using GPS, and analyzing spatial data
+- Geography and global issues
+  - Environmental sustainability, economic development, and political conflict
+
+### Economics
+
+- Microeconomics
+  - Supply and demand, market structures, and consumer behavior
+- Macroeconomics
+  - GDP, inflation, and monetary policy
+- International economics
+  - Trade, exchange rates, and globalization
+- Personal finance
+  - Budgeting, saving, and investing
+- Economics and its impact on society and culture
+
+### Government
+
+- Forms of government
+  - Democracy, dictatorship, and monarchy
+- The Constitution and the branches of government
+- Civil rights and civil liberties
+- Political parties and elections
+- Public policy and current events
+
+### Sociology
+
+- Culture and society
+- Social institutions
+  - Family, education, and religion
+- Social groups and interactions
+- Social inequality and social justice
+- Social change and social problems
+
+### Psychology
+
+- Behavior and mental processes
+- The brain and nervous system
+- Developmental psychology
+  - Child development and aging
+- Personality and individual differences
+- Psychological disorders and treatments

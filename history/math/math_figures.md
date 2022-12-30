@@ -7,7 +7,7 @@ Zeno of Elea|c. 490 BC - c. 430 BC|Greece|Created paradoxes that laid the founda
 Aristotle|384 BC - 322 BC|Greece|Developed the concept of deductive reasoning and wrote extensively about mathematics and other fields.
 Archimedes|287 BC - 212 BC|Greece|Developed the concept of pi and made significant contributions to geometry and calculus.
 Euclid|c. 325 BC - c. 265 BC|Greece|Wrote the "Elements," a mathematical treatise that is still considered a classic today.
-Aryabhata|476 AD - 550 AD|India|Developed the concept of zero and introduced the decimal system to the world.
+Aryabhata|476 - 550|India|Developed the concept of zero and introduced the decimal system to the world.
 Gerolamo Cardano|1501 - 1576|Italy|Introduced the concept of imaginary numbers to solve equations that had no real solutions.
 René Descartes|1596 - 1650|France|Developed the concept of coordinate geometry and made significant contributions to the field of calculus.
 John Wallis|1616 - 1703|England|Developed the concept of complex numbers and made significant contributions to the field of algebra.

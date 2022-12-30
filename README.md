@@ -2,55 +2,58 @@
 
 Nostalgia is a bitch.
 
-- [Scrapbook](#scrapbook)
-  - [Math](#math)
-    - [Arithmetic](#arithmetic)
-    - [Algebra](#algebra)
-    - [Geometry](#geometry)
-    - [Statistics](#statistics)
-    - [Trigonometry](#trigonometry)
-    - [Calculus](#calculus)
-  - [Science](#science)
-    - [Biology](#biology)
-    - [Chemistry](#chemistry)
-    - [Physics](#physics)
-    - [Earth Science](#earth-science)
-    - [Astronomy](#astronomy)
-  - [English](#english)
-    - [Reading](#reading)
-    - [Writing](#writing)
-    - [Vocabulary](#vocabulary)
-  - [History](#history)
-    - [Ancient](#ancient)
-    - [Medieval](#medieval)
-    - [Modern](#modern)
-    - [World](#world)
-    - [Military](#military)
-    - [Social](#social)
-    - [Economic](#economic)
-    - [Political](#political)
-    - [Cultural](#cultural)
-  - [Social Studies](#social-studies)
-    - [Geography](#geography)
-    - [Economics](#economics)
-    - [Government](#government)
-    - [Sociology](#sociology)
-    - [Psychology](#psychology)
-  - [Computer Science](#computer-science)
-    - [Algorithms](#algorithms)
-    - [Programming Languages](#programming-languages)
-    - [Computer Systems](#computer-systems)
-    - [Computer Theory](#computer-theory)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Databases](#databases)
+1. [Scrapbook](#scrapbook)
+   1. [Math](#math)
+      1. [Arithmetic](#arithmetic)
+      1. [Algebra](#algebra)
+      1. [Geometry](#geometry)
+      1. [Statistics](#statistics)
+      1. [Trigonometry](#trigonometry)
+      1. [Calculus](#calculus)
+      1. [Linear Algebra](#linear-algebra)
+      1. [Discrete Mathematics](#discrete-mathematics)
+   1. [Science](#science)
+      1. [Biology](#biology)
+      1. [Chemistry](#chemistry)
+      1. [Physics](#physics)
+      1. [Earth Science](#earth-science)
+      1. [Astronomy](#astronomy)
+   1. [English](#english)
+      1. [Reading](#reading)
+      1. [Writing](#writing)
+      1. [Vocabulary](#vocabulary)
+   1. [History](#history)
+      1. [Ancient](#ancient)
+      1. [Medieval](#medieval)
+      1. [Modern](#modern)
+      1. [World](#world)
+      1. [Military](#military)
+      1. [Social](#social)
+      1. [Economic](#economic)
+      1. [Political](#political)
+      1. [Cultural](#cultural)
+   1. [Social Studies](#social-studies)
+      1. [Geography](#geography)
+      1. [Economics](#economics)
+      1. [Government](#government)
+      1. [Sociology](#sociology)
+      1. [Psychology](#psychology)
+   1. [Computer Science](#computer-science)
+      1. [Algorithms](#algorithms)
+      1. [Programming Languages](#programming-languages)
+      1. [Computer Systems](#computer-systems)
+      1. [Computer Theory](#computer-theory)
+      1. [Artificial Intelligence](#artificial-intelligence)
+      1. [Databases](#databases)
 
 ## Math
 
 ### Arithmetic
 
+- Numbers
 - Basic operations
   - Addition, subtraction, multiplication, division
-- Order of operations and problem-solving
+  - Order of operations
 - Fractions, decimals, and percents
 - Ratios and proportions
 - Measurement and conversion
@@ -98,6 +101,20 @@ Nostalgia is a bitch.
 - Techniques of integration
 - Applications of differentiation and integration
 - Series and sequences
+
+### Linear Algebra
+
+- Vectors
+- Matrices
+- Eigenvalues and eigenvectors
+- Matrix decompositions
+
+### Discrete Mathematics
+
+- Set theory
+- Combinatorics
+- Graph theory
+- Boolean algebra
 
 ## Science
 

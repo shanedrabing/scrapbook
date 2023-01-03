@@ -71,11 +71,32 @@ the human spirit.
 
 ## Owls
 
+- Step 1: Draw some circles
+- Step 2: Draw the rest of the owl.
+
+### Drawing the Bayesian Owl
+
+1. Understand what you're doing.
+1. Document your work, reduce error.
+1. Respectable scientific workflow.
+
 ## Glossary
 
-- Heuristic
-  - A heuristic is a mental shortcut or rule of thumb that people use to solve
-    problems or make decisions quickly and efficiently.
+- Heuristic: A heuristic is a mental shortcut or rule of thumb that people use
+  to solve problems or make decisions quickly and efficiently.
+- Latent variables: Latent variables are variables that are not directly
+  observed, but are inferred from the relationships between other variables.
+- Measurement error: Measurement error refers to the difference between a
+  measured value and the true value of a quantity.
+- Missing data: Missing data refers to observations that are not included in a
+  dataset due to various reasons, such as incomplete record keeping or data
+  collection errors.
+- Regularization: Regularization is a method used to reduce the complexity of a
+  model and prevent overfitting by adding a penalty term to the objective
+  function during optimization.
+- Theoretical estimand: A theoretical estimand is a quantity of interest in a
+  statistical model that is defined in terms of the underlying population
+  parameters, and is used to guide the estimation of these parameters.
 
 ## Endnotes
 

@@ -35,3 +35,19 @@ $$W,L = f(p, N)$$
 | WWWW  | 0                   |
 
 > Things that can happen more ways are more plausible.
+
+## Infinite Possibilities
+
+Posterior probability of any "side" p is proportional to...
+
+$$p^W (1 - p)^L$$
+
+Posterior probability of $p$...
+
+$$p = {(W + L + 1)! \over W!L!} p^W (1 - p)^L$$
+
+### Beta Distribution
+
+For path LWLLWWWLWW
+
+![Beta](data/02_beta.svg)

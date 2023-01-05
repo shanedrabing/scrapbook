@@ -54,7 +54,7 @@ W <- sum(samp == "W")
 L <- sum(samp == "L")
 
 # globes
-p <- seq(0, 1, 0.25)
+p <- seq(0, 1, 0.05)
 
 # counts the number of paths per globe, produce probabilities
 ways <- sapply(p, function(q) (q * 4)^W * ((1 - q) * 4)^L)
@@ -65,7 +65,71 @@ df <- data.frame(p, ways, prob)
 df
 
 {
-    pdf("plot.pdf")
-    barplot(df$prob, names.arg = round(df$prob, 2))
+    pdf("plot.pdf", 9, 7)
+    op <- par(mar = c(5, 4, 2, 1))
+
+    barplot(df$prob, names.arg = round(df$prob, 2),
+            ylim = c(0, 1), las = 2, col = 1)
+
+    par(op)
+    dev.off()
+}
+
+
+# GENERATIVE SIMULATION
+
+
+sim_globe <- function(p, N) {
+    sample(c("W", "L"), N, TRUE, c(p, 1 - p))
+}
+
+make_bars <- function(p, k = 20) {
+    n <- round(p * k)
+    paste(c(rep("#", n), rep(" ", k - n)), sep = "", collapse = "")
+}
+
+compute_posterior <- function(samp, poss = seq(0, 1, 0.25)) {
+    # count W and L
+    W <- sum(samp == "W")
+    L <- sum(samp == "L")
+
+    # counts the number of paths per globe, produce probabilities
+    ways <- sapply(poss, function(q) (q * 4)^W * ((1 - q) * 4)^L)
+    post <- ways / sum(ways)
+
+    # graphical bars
+    bars <- sapply(post, make_bars)
+
+    # return out
+    data.frame(poss, ways, post = round(post, 3), bars)
+}
+
+samp <- sim_globe(0.7, 10)
+compute_posterior(samp)
+samp
+
+
+# INFINITE POSSIBILTIES
+
+# beta distribution
+d_beta <- function(p, W, L) {
+    fct <- factorial
+    nrm <- fct(W + L + 1) / (fct(W) * fct(L))
+    nrm * (p ^ W) * ((1 - p) ^ L)
+}
+
+dbeta(0.25, 4, 5)
+d_beta(0.25, 4, 5)
+
+{
+    svg("plot.svg", 7, 5)
+    op <- par(mar = c(5, 4.5, 1, 1))
+
+    x <- seq(0, 1, 0.01)
+    y <- dbeta(x, 6, 4)
+
+    plot(x, y, type = "l", lwd = 3, xlab = "p", ylab = "Density")
+
+    par(op)
     dev.off()
 }

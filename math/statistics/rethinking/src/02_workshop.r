@@ -111,15 +111,13 @@ samp
 
 # INFINITE POSSIBILTIES
 
+
 # beta distribution
 d_beta <- function(p, W, L) {
     fct <- factorial
     nrm <- fct(W + L + 1) / (fct(W) * fct(L))
     nrm * (p ^ W) * ((1 - p) ^ L)
 }
-
-dbeta(0.25, 4, 5)
-d_beta(0.25, 4, 5)
 
 {
     svg("plot.svg", 7, 5)
@@ -131,5 +129,33 @@ d_beta(0.25, 4, 5)
     plot(x, y, type = "l", lwd = 3, xlab = "p", ylab = "Density")
 
     par(op)
+    dev.off()
+}
+
+
+# EXAMPLE SUMMARY
+
+
+post_samp <- rbeta(1e4, 6, 4)
+
+{
+    pdf("plot.pdf", 7, 5)
+    op <- par(mar = c(4.5, 4.5, 2.5, 1.5))
+
+    plot(density(post_samp, adjust = 0.1),
+         main = "Sampled Beta Distribution",
+         xlab = "p", ylab = "Density")
+    curve(dbeta(x, 6, 4), add = TRUE, col = 2)
+
+    par(op)
+    dev.off()
+}
+
+pred_post <- sapply(post_samp, function(p) sum(sim_globe(p, 10) == "W"))
+tbl <- table(pred_post)
+
+{
+    pdf("plot.pdf", 7, 5)
+    barplot(tbl)
     dev.off()
 }

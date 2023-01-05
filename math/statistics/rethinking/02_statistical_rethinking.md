@@ -4,8 +4,8 @@ Hosted by Richard McElreath
 
 ## How much of the globe is covered by water?
 
-- The estimand is proportion of surface water on Earth.
-- We take a sample, create an estimate.
+- The estimand is proportion of surface water on Earth
+- We take a sample, create an estimate
 
 ### Parameters
 
@@ -51,3 +51,19 @@ $$p = {(W + L + 1)! \over W!L!} p^W (1 - p)^L$$
 For path LWLLWWWLWW
 
 ![Beta](data/02_beta.svg)
+
+### Differences from Frequentism
+
+1. No minimum sample size
+1. Shape embodies sample size, distribution is updated upon new data
+1. No point estimates, the distribution is the estimate
+1. No one true interval
+
+95% is complete superstition.
+
+### What Do We Do with It?
+
+- Posterior distribution can form a predictive distribution.
+- Samples from predictive distributions can form a posterior predictive.
+
+![Beta Sampled](data/02_beta_samp.svg)

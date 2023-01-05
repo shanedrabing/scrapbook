@@ -25,3 +25,5 @@ $$W,L = f(p, N)$$
 > For each possible explanation of the sample, count all the ways the sample
 > could happen. Explanations with more ways to produce the sample are more
 > plausible.
+
+

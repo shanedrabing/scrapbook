@@ -15,7 +15,7 @@ Bayesian vs. Frequentism wars are over. New fight is causal inference.
 
 Abstract causal models (heuristic).
 
-![DAG](data/01_dag.svg)
+![DAG](../data/01_dag.svg)
 
 > A directed acyclic graph (DAG) is a type of graph that consists of a set of
 > vertices (also called nodes) and a set of directed edges connecting the

@@ -2,8 +2,6 @@
 
 Nostalgia is a bitch.
 
-I ask ChatGPT to describe the world to me.
-
 1. [Scrapbook](#scrapbook)
    1. [Math](#math)
       1. [Arithmetic](#arithmetic)

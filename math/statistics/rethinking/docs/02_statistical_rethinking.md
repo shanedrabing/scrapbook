@@ -16,7 +16,7 @@ Hosted by Richard McElreath
 
 ### DAG
 
-![DAG](data/02_dag.svg)
+![DAG](../data/02_dag.svg)
 
 $$W,L = f(p, N)$$
 
@@ -50,7 +50,7 @@ $$p = {(W + L + 1)! \over W!L!} p^W (1 - p)^L$$
 
 For path LWLLWWWLWW
 
-![Beta](data/02_beta.svg)
+![Beta](../data/02_beta.svg)
 
 ### Differences from Frequentism
 
@@ -66,4 +66,4 @@ For path LWLLWWWLWW
 - Posterior distribution can form a predictive distribution.
 - Samples from predictive distributions can form a posterior predictive.
 
-![Beta Sampled](data/02_beta_samp.svg)
+![Beta Sampled](../data/02_beta_samp.svg)

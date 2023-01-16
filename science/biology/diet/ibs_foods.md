@@ -23,7 +23,7 @@ may help to manage symptoms of Irritable Bowel Syndrome (IBS).
 
 - Anti-inflammatory foods: Certain foods, such as omega-3 fatty acids (found in
   fatty fish such as salmon, sardines, and mackerel) ginger, turmeric, garlic,
-  berries (strawberries, blueberries
+  berries (strawberries, blueberries).
 
 ## FODMAPs
 

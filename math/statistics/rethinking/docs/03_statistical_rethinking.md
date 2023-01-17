@@ -19,7 +19,7 @@ Hosted by Richard McElreath
 
 1. Language for representing models
 1. Calculate posterior distributions with multiple unknowns
-1. Constructing, understandinng linear models
+1. Constructing, understanding linear models
 
 ## Workflow
 
